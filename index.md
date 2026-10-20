@@ -10,6 +10,7 @@ Short, practical notes on turning still photos into moving clips: what works, wh
 
 - [How to Animate Old Family Photos Without Making Them Look Fake](animate-old-family-photos.html)
 - [Choosing the Right Photo for AI Animation: A Checklist](photo-checklist.html)
+- [AI Video Effects and Trend Templates](effects.html)
 
 ## Tools
 
